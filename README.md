@@ -26,7 +26,7 @@ http://vivek.cloud
 <h1>🎬 Project Demo</h1>
 
 <p align="center">
-  <a href="./demo/project-demo.mp4">
+  <a href="/project-demo.mp4">
     <img src="./img/AI-1.png" width="800">
   </a>
 </p>
