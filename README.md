@@ -33,7 +33,7 @@ http://vivek.cloud
 
 
 ## AI Code Analysis
-![](/img/AI-2.png)
+![](/img/Screenshot%20(1649).png)
 
 ---
 
@@ -189,7 +189,22 @@ docker run -d -p 5000:5000 --name ai-reviewer-container --env-file .env ai-code-
 docker ps
 ```
 
+Paste this:
+
+
 ---
+
+## 📦 Pull Docker Image From Docker Hub
+
+```bash
+docker pull chopadevivek07/ai-code-reviewer:latest
+---
+```
+
+## ▶️ Run Docker Image
+```
+docker run -p 5000:5000 chopadevivek07/ai-code-reviewer:latest
+```
 
 # 🌍 Production Deployment
 
